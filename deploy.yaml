@@ -16,6 +16,6 @@ spec:
   spec:
    containers:
    - name: my-container
-     image: project2
+     image: project2:latest
      ports:
      - containerPort: 80
